@@ -1,7 +1,7 @@
 # Purchase Manager Reciever
 ## Introduction
 This GUI application was an assignment for an Advanced Programming Course, showcasing the use of Qt 6.5 and C++ for recieving data from the main application for managing the purchases of a book store. It features Networking and XML data storage
-**NOTE: This application will not work without the main application** [https://github.com/VinceMKB/PurchaseManager.git]
+##### **NOTE: This application will not work without the main application** [https://github.com/VinceMKB/PurchaseManager.git]
 
 ## Features
 - Networking using QUdpSocket for sending the purchase list in XML to the reciever application
