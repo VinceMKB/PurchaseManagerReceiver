@@ -7,7 +7,8 @@ This GUI application was an assignment for an Advanced Programming Course, showc
 - Networking using QUdpSocket for sending the purchase list in XML to the reciever application
 
 ## Application GUI Screenshots
-[ADD PHOTOS]
+#### ![PurchaseManagerReciever_img](https://github.com/VinceMKB/PurchaseManagerReciever/assets/155303838/52287fb6-16c6-4612-8d10-7c05d4dda24f)
+
 ### How To USE Application
 The application needs to be run together with the 'Purchase Manager' application [https://github.com/VinceMKB/PurchaseManager.git]. When a new purchase is added to the list in the Purchase Manager application it will display the list in XML format automatically when 'CHECK OUT' is clicked.
 
