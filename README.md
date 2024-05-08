@@ -1,6 +1,6 @@
-# Purchase Manager Reciever
+# Purchase Manager Receiver
 ## Introduction
-This GUI application was an assignment for an Advanced Programming Course, showcasing the use of Qt 6.5 and C++ for recieving data from the main application for managing the purchases of a book store. It features Networking and XML data storage
+This GUI application was an assignment for an Advanced Programming Course, showcasing the use of Qt 6.5 and C++ for receiving data from the main application for managing the purchases of a book store. It features Networking and XML data storage
 ##### **NOTE: This application will not work without the main application** [https://github.com/VinceMKB/PurchaseManager.git]
 
 ## Features
@@ -21,9 +21,9 @@ This project uses the following:
 - CMake
 - C++
 
-### Installation and Setup of Reciever Application
+### Installation and Setup of Receiver Application
 - **Step 1**: Open QtCreator and click on 'Open Project'
-- **Step 2**: Navigate to the extracted file named 'PurchaseManagerReciever' and locate the file called 'CMakeLists'
+- **Step 2**: Navigate to the extracted file named 'PurchaseManagerReceiver' and locate the file called 'CMakeLists'
 - **Step 3**: Click on 'CMakeLists' file and click 'Open'
 - **Step 4**: The project should open up on QtCreator
 
